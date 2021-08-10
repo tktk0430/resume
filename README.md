@@ -85,7 +85,7 @@ Python, Django, JavaScript, React, PostgreSQL, Amazon ECS
 ---
 
 ## ② 副業 [人事AIアシスタント researcHR](https://app.researchr.work/)の開発
-副業として業務委託のポジションで参加しました  
+副業として業務委託のポジションで参加しました。リモートワーク下で、月平均して30hrほどコミットしていました。  
 2020/5 〜 2021/7
 
 **職種**  
