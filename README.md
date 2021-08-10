@@ -1,42 +1,48 @@
 # 自己紹介
 ## 概略
 - 2014年3月：東京工業大学大学院 材料工学専攻修了。火力発電タービンのような、高温で使われる合金材料の研究をしていました。
-
 - 〜2019年3月：金属材料系の会社で製造プロセス設計エンジニアとして従事。在社中に競技プログラミングにハマり、ITエンジニアへの転身を考えるようになりました。
-
-- 2019年7月〜：シェルフィー株式会社にてアプリケーションエンジニアとして従事。チケット駆動開発下で
+- 2019年7月〜：シェルフィー株式会社にてアプリケーションエンジニアとして従事。チケット駆動開発下で以下の工程を主に担当しました
   - 詳細設計
   - フロント〜バックエンドのコーディング
   - テスト
-などの工程を担当しました。
 
 ## 好きな○○
-言語：Python, TypeScript
-エディタ：VSCode
-技術書：SQLアンチパターン
-技術者：t_wadaさん
-アルゴリズム : 動的計画法
+言語：Python, TypeScript  
+エディタ：VSCode  
+技術書：SQLアンチパターン  
+技術者：t_wadaさん  
+アルゴリズム : 動的計画法  
 
 ## リンク
-GitHub : https://github.com/tktk0430
-Qiita : https://qiita.com/tktk0430
-競技プログラミング解説ブログ : https://okina-ichiyaduke.hatenablog.com/
+GitHub : https://github.com/tktk0430  
+Qiita : https://qiita.com/tktk0430  
+競技プログラミング解説ブログ : https://okina-ichiyaduke.hatenablog.com/  
 社内インタビュー記事 : https://www.wantedly.com/companies/shelfy/post_articles/309061
 
----
+<br>
+
+# 技術の経験
+言語：Python, TypeScript, JavaScript, Ruby(独学)  
+フレームワーク：Django REST Framework, React, Ruby on Rails(独学)  
+DB : PostgreSQL, MySQL  
+AWS : Lambda, EC2, RDS, SNS, EKS（インフラ構築は未経験、kubectl等の操作が可能）  
+他 : Docker, ElasticSearch  
+
+<br>
 
 # 職歴
 ## ①-1. 新規プロジェクトの立ち上げ
-立ち上げ期 : 2020/7 〜 2021/2
+立ち上げ期 : 2020/7 〜 2021/2  
 運用・保守期 : 2021/2 〜 現在
 
-**チーム**
+**チーム**  
 開発チーム人数: 4 人
 
-**開発環境**
+**開発環境**  
 Python, Django, TypeScript, React, PostgreSQL, ElasticSearch, Amazon EKS
 
-**詳細**
+**詳細**  
 今後のプロダクト増加を見据えての、アプリ間のハブとなるアプリの設計の立ち上げメンバーとして関わりました。
 
 【フロントエンド】
@@ -61,13 +67,13 @@ Python, Django, TypeScript, React, PostgreSQL, ElasticSearch, Amazon EKS
 ## ①-2. 既存プロジェクトでの機能実装
 2019/7 〜 2020/6
 
-**チーム**
+**チーム**  
 開発チーム人数: 10人超
 
-**開発環境**
+**開発環境**  
 Python, Django, JavaScript, React, PostgreSQL, Amazon ECS
 
-**詳細**
+**詳細**  
 未経験エンジニアとして、開発のイロハを学びながら業務に取り組みました。
 
 - Pythonは入社前からかけたものの、Reactは苦戦の連続でした。Reduxを理解できたときはとても嬉しかったです。
@@ -76,20 +82,19 @@ Python, Django, JavaScript, React, PostgreSQL, Amazon ECS
 - 「社内に眠っている知見を掘り起こしたい！」という野望のもと、社内勉強会（ナレッジシェア会）を主催しました。新人からベテランまでみんな登壇するように根回ししたり、勉強会中の司会進行などもしました。
   - 自分が話したトピックは「React.memoを用いたフロントのパフォーマンスチューニング」「VSCodeのデバッグ色々」「N+1問題の解消について」です
 
+---
+
 ## ② 副業 [人事AIアシスタント researcHR](https://app.researchr.work/)の開発
-副業として業務委託のポジションで参加しました
+副業として業務委託のポジションで参加しました  
 2020/5 〜 2021/7
 
-**職種**
+**職種**  
 アプリケーションエンジニア
 
-**役割**
-メンバー
-
-**チーム**
+**チーム**  
 開発チーム人数: 6 人
 
-**開発環境**
+**開発環境**  
 Django, Slack App, MySQL, AWS
 
 **詳細**
@@ -110,10 +115,10 @@ Django, Slack App, MySQL, AWS
 入社から一貫して航空機部品の開発に携わってきました。GE社やRollsRoyce社といった海外エンジンメーカーからの開発依頼を受け、その製造認定をとるためのプロジェクトに従事しました。
 
 第一発明者として特許の出願などもおこないました。
-熱間鍛造材の製造方法 : http://www.conceptsengine.com/patent/application/2018089695
+熱間鍛造材の製造方法 : http://www.conceptsengine.com/patent/application/2018089695  
 
----
+<br>
 
 # 資格
-AWS Solution Architect Associate 2020年03月取得
+AWS Solution Architect Associate 2020年03月取得  
 TOEIC 810 2018年12月取得
