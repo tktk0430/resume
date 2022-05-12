@@ -33,8 +33,8 @@ Qiita : https://qiita.com/tktk0430
 <br>
 
 # 技術の経験
-言語：Python, TypeScript, JavaScript, Ruby(独学)  
-フレームワーク：Django REST Framework, React, Ruby on Rails(独学)  
+言語：Python, TypeScript, JavaScript, Ruby
+フレームワーク：Django REST Framework, React, Ruby on Rails
 DB : PostgreSQL, MySQL  
 AWS : Lambda, EC2, RDS, SNS, EKS（インフラ構築は未経験、kubectl等の操作が可能）  
 他 : Docker, ElasticSearch  
