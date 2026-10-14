@@ -7,6 +7,7 @@
   - フロント〜バックエンドのコーディング
   - テスト
   - コードレビュー
+- 2021年12月〜：freee株式会社。会計サービスの設計及び機能開発に従事
 
 ## 好きな○○
 言語：Python, TypeScript  
@@ -20,6 +21,8 @@ GitHub : https://github.com/tktk0430
 Qiita : https://qiita.com/tktk0430  
 競技プログラミング解説ブログ : https://okina-ichiyaduke.hatenablog.com/  
 社内インタビュー記事 : https://www.wantedly.com/companies/shelfy/post_articles/309061
+競技プログラミング大会を開催した話（公式developerブログ）：https://developers.freee.co.jp/entry/programming_contest_2nd
+技術講演会の登壇：https://www.youtube.com/live/PjuJ3NWr4y4?si=jKfsfH-ERCP2svYm&t=15127
 
 <br>
 
